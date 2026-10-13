@@ -122,7 +122,7 @@ La imagen se conserva en el repositorio con el nombre usado para esta referencia
 
 ### 4.2 Vista E2
 
-!(imagenes/casos-de-uso-e2.png)
+![Vista de acceso, cuentas y ayuda de E2](imagenes/casos-de-uso-e2.png)
 
 ## 5 Respaldo en los requisitos
 
