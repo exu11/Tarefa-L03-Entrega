@@ -120,6 +120,10 @@ El inicio de sesión no se incluye en todos los casos protegidos. La comprobaci�
 
 La imagen se conserva en el repositorio con el nombre usado para esta referencia. Las revisiones de esta vista actualizarán el mismo archivo. Las nuevas vistas tendrán archivos distintos, de acuerdo con la [guía de modelos](README.md).
 
+### 4.2 Vista E2
+
+!(imagenes/casos-de-uso-e2.png)
+
 ## 5 Respaldo en los requisitos
 
 Los identificadores remiten al [catálogo canónico de requisitos](../requisitos/catalogo-requisitos.md), versión 1.13, y a la [SRS](../requisitos/srs.md), versión 0.14. UR identifica un requisito de usuario; FR, un requisito funcional; NFR, un requisito no funcional.
