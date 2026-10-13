@@ -83,6 +83,8 @@ Los objetivos de esta tabla son resúmenes. Las descripciones detalladas quedan 
 | UC-42 | Revocar nutricionista | Revocar el acceso a los datos fisiológicos y de salud del paciente al nutricionista. | Principal: Paciente. |
 | UC-43 | Invitar nutricionista | Enviar una invitación a un nutricionista para acceder a los datos fisiológicos y de salud. | Principal: Paciente. Apoyo: Servicio de correo electrónico. |
 | UC-44 | Autorización compartición de datos a cuidador | Autorización al cuidador para acceder a los datos compartidos. | Principal: Paciente. |
+| UC-45 | crear recetas | Crear recetas con instrucciones. | Principal: Usuario registrado. |
+| UC-46 | Validar recetas | Validar recetas creadas por pacientes o cuidadores, las recetas creadas por nutricionistas quedan automáticamente validadas. | Principal: Nutricionista. |
 
 UC-03 se representa como una subfunción de apoyo. Tener una sesión válida es una condición previa de las funciones protegidas. Esto no implica ejecutar UC-03 cada vez que se realiza una de ellas.
 
